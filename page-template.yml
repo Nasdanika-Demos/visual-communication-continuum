@@ -1,6 +1,6 @@
 bootstrap.Page:
   cdn: true
-  theme: Lument
+  theme: Lumen
   name: Application Page Template
   language: EN
   stylesheets: 
